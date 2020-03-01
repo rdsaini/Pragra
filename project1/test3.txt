@@ -1,2 +1,5 @@
 new test file 3
- line added from Master
+
+line added from Master
+
+new line added from branch feature/2020
