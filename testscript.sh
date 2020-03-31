@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "This script is from github"
-NUMBER = $(($NUMBERONE + $NUMBERTWO))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
+#NUMBER = $(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This is complete"
 echo "This is fully complete"
