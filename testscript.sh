@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "This script is from github"
-NUM=$(("$FIRSTNUM" + "$SECONDNUM"))
+#echo "This script is from github"
+NUM=$(($FIRSTNUM + $SECONDNUM))
 #NUMBER = $(($NUMBERONE + $NUMBERTWO))
 echo "$NUM"
 echo "This is complete"
